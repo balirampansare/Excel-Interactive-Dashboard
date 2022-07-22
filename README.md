@@ -7,7 +7,7 @@
 
 Created dynamic and interactive Excel dashboard. The dashboard showcase the most important information and various KPI that can be formed using the cookie company data. The major excel tool used is pivot table and pivot charts.
 
-![Dashboard](/images/dashboard.PNG)
+![Dashboard](/images/dashboardgui.PNG)
 
 [Download the excel file](https://github.com/balirampansare/Excel-Interactive-Dashboard/blob/main/Excel%20Interactive%20Dashboard.xlsx)
 
